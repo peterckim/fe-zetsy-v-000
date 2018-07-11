@@ -36,6 +36,7 @@ h1 {
 footer {
     text-align: right;
     background: #fff;
+    display: block;
 }
 
 #featured-image {
@@ -44,5 +45,5 @@ footer {
 
 h2 {
   color: rgb(111,127,122);
-    font-size: 2em;
+  font-size: 2em;
 }
