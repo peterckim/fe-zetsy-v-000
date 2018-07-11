@@ -32,3 +32,8 @@ header a {
     color: rgb(152,173,166);
     text-decoration: none;
 }
+
+footer {
+    text-align: right;
+    background: #fff;
+}
